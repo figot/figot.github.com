@@ -1,25 +1,21 @@
 ---
-layout: page
-title: Hello World!
+layout: default
+title: 静水流深 青春如画 渔樵阿飞
 tagline: Supporting tagline
 ---
-{% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## Author Info
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
+My own data:
     
-    title : My Blog =)
+    title : 渔樵阿飞
     
     author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+      name : 渔樵阿飞
+      email : sufeifan829@gmail.com
+      github : figot
+      weibo : [阿飞_Hust](http://weibo.com/figo829)
+	  douban : [渔樵阿飞](http://www.douban.com/people/55920934/)
 
 The theme should reference these variables whenever needed.
     
@@ -40,7 +36,5 @@ Here's a sample "posts list".
 
 ## To-Do
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 

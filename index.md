@@ -6,35 +6,31 @@ tagline: Supporting tagline
 
 ## Author Info
 
-My own data:
+
+name : 渔樵阿飞
+      
+email : sufeifan829@gmail.com
+      
+github : figot
+      
+weibo : [阿飞_Hust](http://weibo.com/figo829)
+	  
+douban : [渔樵阿飞](http://www.douban.com/people/55920934/)
+
     
-    title : 渔樵阿飞
-    
-    author :
-      name : 渔樵阿飞
-      email : sufeifan829@gmail.com
-      github : figot
-      weibo : [阿飞_Hust](http://weibo.com/figo829)
-	  douban : [渔樵阿飞](http://www.douban.com/people/55920934/)
+## 絮语
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+慢慢地自己读过一些书，见识过一些事情，体会到一些情感，明白到一些道理，也有过一些切身的经历，对于很多事情慢慢地有了自己的一些看法，开始去在文字里记录下自己的思绪，开始对自己进行反思和总结，开始坚持自己的坚持，开始对于一些东西有了自己更深的认识。也许这些想法很浅薄，也许这些认识不成熟，把这些浅薄与不成熟沉淀下来，并且不断的去思考，就有可能在这条路上走得更远。
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+工科男，技术宅，热爱音乐足球
 
-    $ rm -rf _posts/core-samples
+我热爱coding，也喜欢码字，前者帮助我暂忘现实，后者代表着我一次次努力超越现实的无功而返。
 
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+人生就是不断的coding
 
 ## To-Do
 
+待续................
+ing................
 
 

@@ -19,7 +19,7 @@ tagline: Supporting tagline
 
 人生就是不断的coding
 
-欢迎关注我的博客，同样，也欢迎关注我的[新浪微博](http://weibo.com/figo829), [豆瓣](http://www.douban.com/people/55920934/)，如果我们有共同的兴趣，可以联系我sufeifan829(at)gmail.com
+欢迎关注我的博客，同样，也欢迎关注我的[*新浪微博*](http://weibo.com/figo829), [*豆瓣*](http://www.douban.com/people/55920934/)，如果我们有共同的兴趣，可以联系我sufeifan829(at)gmail.com
 
     
 ## 絮语

@@ -30,7 +30,7 @@ author :
 production_url : http://figot.github.io
 
 # 每一页显示的文章数
-paginate: 2
+paginate: 5
 paginate_file: index.html
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
